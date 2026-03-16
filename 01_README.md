@@ -2,7 +2,7 @@
 AERIS- FSAR (Fire Suppression and Response Robot) is an autonomous firefighting robot designed to detect and extinguish fires in hazardous environments.  The system uses an ESP32-based control architecture, sensor-based fire detection, and a suppression mechanism to respond to fire incidents while minimizing human risk.
 
 
-![Robot Image](05_Documentation/02_Robot Photos/Bot_Img_1.jpeg)
+![Robot Image](Images/BOT1.jpeg)
 
 # <b>📌DESCRIPTION</b>
 
