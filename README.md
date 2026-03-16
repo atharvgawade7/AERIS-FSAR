@@ -19,10 +19,10 @@ The system integrates sensing, navigation, and suppression capabilities using an
 5. Components Used (BOM)
 6. System Architecture
 7. Working Principle
-8. Repository Structure
-9. Team
+8. Team
 10. Future Improvements
-11. License
+11. Repository Structure
+12. License
 
 ---
 
